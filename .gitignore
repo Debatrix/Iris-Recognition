@@ -1,0 +1,12 @@
+*.pyc
+*.mat
+*/__pycache__/*
+*.json
+*.npy
+.vscode
+templates
+temp
+feature
+.idea
+CASIA1
+MMU2
